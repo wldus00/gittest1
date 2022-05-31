@@ -17,7 +17,8 @@
           <LI>첫번째 변경 후 add, commit 진행, push 안함.</LI>
           <LI>두번째 변경 진행함.</LI>
           <LI>Student 1</LI>
-          <LI>Lecture 1.</LI>
+          <LI>Lecture 1.</LI> 
+          <LI>프로젝트 성공을 기원합니다.</LI>
           <LI>Student 2</LI>
       </OL>
   </DIV> 
