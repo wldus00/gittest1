@@ -18,6 +18,7 @@
           <LI>두번째 변경 진행함.</LI>
           <LI>Student 1</LI>
           <LI>Lecture 1.</LI>
+          <LI>프로젝트 성공을 기원합니다.</LI>
       </OL>
   </DIV> 
 </body>
